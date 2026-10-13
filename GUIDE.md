@@ -1,10 +1,10 @@
 # Langton's Ant Supplementary Materials
 
 Public repository: [https://github.com/Atharva12456/langtons-ant-supplementary-materials](https://github.com/Atharva12456/langtons-ant-supplementary-materials).
-The versioned snapshot is [v1.0.1](https://github.com/Atharva12456/langtons-ant-supplementary-materials/releases/tag/v1.0.1).
+The versioned snapshot is [v1.0.2](https://github.com/Atharva12456/langtons-ant-supplementary-materials/releases/tag/v1.0.2).
 
 Suggested citation: Atharva Jillhewar (2026), *Finite-Support Periodic Highways
-of Langton's Ant: Supplementary Materials*, version 1.0.1. https://github.com/Atharva12456/langtons-ant-supplementary-materials.
+of Langton's Ant: Supplementary Materials*, version 1.0.2. https://github.com/Atharva12456/langtons-ant-supplementary-materials.
 Machine-readable citation metadata is in [CITATION.cff](CITATION.cff).
 
 | Folder | Contents |

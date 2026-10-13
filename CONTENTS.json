@@ -7,23 +7,23 @@
   "files": [
     {
       "path": "01_Report/report.pdf",
-      "bytes": 327921,
-      "sha256": "112704049dc909cd5a0cef7f5fe697d4f9e9aee94850ea9d239702346856fec9"
+      "bytes": 325610,
+      "sha256": "02d8349bfea48b6bb97d1ee1f11167cb2097580e44ecd139fa06142b077bf142"
     },
     {
       "path": "01_Report/report.tex",
-      "bytes": 74393,
-      "sha256": "38d96c06a48530687b26c6060573ca6e2eebd4e75511730317f4cbb15901f0e0"
+      "bytes": 73976,
+      "sha256": "fbbeed16364aa66d1749c061a0459d6fc02e91cb1988ca38adc19e89b7281268"
     },
     {
       "path": "02_Proof_reference/proof_reference.pdf",
-      "bytes": 605516,
-      "sha256": "1445a64f783d4f079de61d0ff341f215a6df33ab189bd6a0fe5cd544fb34dda9"
+      "bytes": 605221,
+      "sha256": "86b9a7dffc3b3d69e26a20e91ec7d7dec49e9730d4945e668d2279ea79c96732"
     },
     {
       "path": "02_Proof_reference/proof_reference.tex",
-      "bytes": 296275,
-      "sha256": "f39dfd0a8d4a439b05a41ae93862c7a97ce0de20a8c596d70fc3ebb79affd11e"
+      "bytes": 295971,
+      "sha256": "7d8507efeee57f03f283ae3fc36a0bf2a27c0a255fd17778da210d1ce00df5e8"
     },
     {
       "path": "03_Research_notes/01_Foundations.md",
@@ -77,8 +77,8 @@
     },
     {
       "path": "04_Reproduction/reproduction.zip",
-      "bytes": 596223,
-      "sha256": "04fcff22d8b9e477bdbe5bc3045b0a7b39252f9769e578f30279313889d99d72"
+      "bytes": 596046,
+      "sha256": "ceed510b1537e9ef1e075da95f7ccd3eca2dfdd8c4e534f3c32f423425c2d450"
     },
     {
       "path": "05_Raw_records/raw_search_records.zip",
@@ -88,12 +88,12 @@
     {
       "path": "CITATION.cff",
       "bytes": 468,
-      "sha256": "bb4deff99c5d50b43b1a08e11605454882edf7ceebc3ab0563703fdcf237a15b"
+      "sha256": "e2da9d0becedaf603390278ac667aa0a43d8ff9e400e7fd5ce23e79e85283bc7"
     },
     {
       "path": "GUIDE.md",
       "bytes": 2961,
-      "sha256": "17868539ed126ef7694781be524ee29cf07ed2f64dae2dfe4091dffca2ec134d"
+      "sha256": "7be2f1e2c14dfe8f6401e791638b341b93c839246570e8c713007f7e418d3a80"
     },
     {
       "path": "README.md",
