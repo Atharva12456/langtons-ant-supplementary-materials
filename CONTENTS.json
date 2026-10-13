@@ -88,12 +88,17 @@
     {
       "path": "CITATION.cff",
       "bytes": 468,
-      "sha256": "79e759c0c1837c86ab7efa9419a2cc091e0e6a928846031d1835323824b34a02"
+      "sha256": "bb4deff99c5d50b43b1a08e11605454882edf7ceebc3ab0563703fdcf237a15b"
+    },
+    {
+      "path": "GUIDE.md",
+      "bytes": 2961,
+      "sha256": "17868539ed126ef7694781be524ee29cf07ed2f64dae2dfe4091dffca2ec134d"
     },
     {
       "path": "README.md",
-      "bytes": 2961,
-      "sha256": "d7cf7b7679c8b4521863f936937860851d4ad072658c4746323ea710713d5b76"
+      "bytes": 136,
+      "sha256": "6dec1973b06186c27d917e71172c9e61055b1fc7787718b6c10e2bd3a85b4644"
     },
     {
       "path": "SCOPE.md",
